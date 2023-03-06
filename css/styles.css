@@ -1,0 +1,23 @@
+body {
+    /* display: flex;
+    position: relative; */
+    text-align: center;
+    
+}
+
+body img {
+    width: 100vw;
+    height: 65vh;
+}
+
+header {
+    background-color: rgb(74, 255, 225);
+    padding: 20px;
+}
+
+footer{
+    background-color: rgb(0, 110, 138);
+    color: white;
+    padding: 20px;
+    
+}
